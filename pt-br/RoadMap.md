@@ -1,5 +1,3 @@
-# Partnership with Museu do Índio
-
 ## Phase one: Understanding GLAM Wiki projects and Museu do Índio (September-October)
 * Research on how GLAM Wiki partnerships were established in Brazil and their chosen workflow
 * Preparation of an introductory workshop to present Wikimedia projects to the Museu do Índio team:
@@ -17,8 +15,9 @@
   * Which preventive measures can we take to make sure the longevity of those projects aren't largely affected by the lack of governmental funding?
 
 ## Phase three: Testing the chosen strategies and methodology (November)
-* Preparatives for the next workshop with Museu do Índio (first three weeks of November)
+* Preparatives for the next two workshops with Museu do Índio (first three weeks of November)
 * Second workshop with Museu do Índio focusing on Wiktionary collaborations (fourth week of November)
+* Third workshop with Museu do Índio with the participation of some Brazilian indigenous tribes (fifth week of November)
 
 ## Phase four: Publishing an open access policy (December)
 * Documentation, evaluation and report of the experiences from the last two workshops
