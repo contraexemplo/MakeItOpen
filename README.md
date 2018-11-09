@@ -1,20 +1,18 @@
-Welcome!
-
+# Welcome
+Hello! 👋 If you are looking for some guidance on all the processes behind creating and managing a digital collection, you are in the right place! This repository aims to gather all information about digital cultural preservation, creating an open access guideline that you can copy, replicate, reproduce, discuss, criticize, frame and put on your all, cut in half and glue it together, and/or improve by contributing to it! All content in this repository is [CC0](https://creativecommons.org/publicdomain/zero/1.0/), therefore, you don't even need to credit me, or notify me if you end up using it (but I strongly encourage you to at least tell me about your experiences, I would love to know more)!
 
 Table of Contents
 =================
 
-      * [What is the goal of this project?](#what-is-the-goal-of-this-project)
-      * [Who is behind this project?](#who-is-behind-this-project)
-      * [How can I help?](#how-can-i-help)
-         * [I am involved with cultural heritage initiatives and/or intitutions](#i-am-involved-with-cultural-heritage-initiatives-andor-intitutions)
-         * [I am involved in research about preservation of culture and policy making](#i-am-involved-in-research-about-preservation-of-culture-and-policy-making)
-         * [I am envolved in digitization of cultural objects](#i-am-envolved-in-digitization-of-cultural-objects)
-         * [I am involved in enrichment and reuse of cultural objects online](#i-am-involved-in-enrichment-and-reuse-of-cultural-objects-online)
-         * [I am involved in software development](#i-am-involved-in-software-development)
-         * [None of the above, but...](#none-of-the-above-but)
-            * [I am not a native English speaker](#i-am-not-a-native-english-speaker)
-            * [I am just really excited about preservation of culture!](#i-am-just-really-excited-about-preservation-of-culture)
+* [What is the goal of this project?](#what-is-the-goal-of-this-project)
+* [Who is behind this project?](#who-is-behind-this-project)
+* [How can I help?](#how-can-i-help)
+     * [I am involved with cultural heritage initiatives and/or intitutions](#i-am-involved-with-cultural-heritage-initiatives-andor-intitutions)
+     * [I am involved in research about cultural preservation and policy making](#i-am-involved-in-research-about-cultural-preservation-and-policy-making)
+     * [I am envolved in digitization of cultural objects](#i-am-envolved-in-digitization-of-cultural-objects)
+     * [I am involved in enrichment and reuse of cultural objects online](#i-am-involved-in-enrichment-and-reuse-of-cultural-objects-online)
+     * [I am involved in software development](#i-am-involved-in-software-development)
+     * [None of the above, but...](#none-of-the-above-but)
 
 ## What is the goal of this project?
 
@@ -36,7 +34,7 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 - Reviewing the processes and tools described in this repository
 - Helping us establish priorities and more effective policies
 
-### I am involved in research about preservation of culture and policy making
+### I am involved in research about cultural preservation and policy making
 - Reviewing the processes described in this repository
 - Sending us reports or articles about similar experiences in the country, state, city or environment you are in
 - Describing your own experiences on preservation of culture and policy making
