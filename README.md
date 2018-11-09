@@ -57,8 +57,8 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 
 ### None of the above, but...
 
-#### I am not a native English speaker
-- Submit a translation of the content of this repository in your mother toungue!
+#### I speak English and other language(s)
+- Submit a translation of the content of this repository!
 
 #### I am just really excited about preservation of culture!
 - Telling us how would an ideal digital collection look like
