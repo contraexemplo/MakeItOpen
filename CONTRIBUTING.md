@@ -27,10 +27,19 @@ Table of Contents
 - A laptop or a desktop computer
 - A [GitHub account](https://github.com/join)
 - A text editor
-- [Downloading and configuring git](https://help.github.com/articles/set-up-git/)*
+- [Downloading and configuring git](https://help.github.com/articles/set-up-git/) (follow the instructions under "Setting up Git"). Note that Windows, macOS and Linux have different methods of installation—you should follow the appropriate one for your operational system. But if you find yourself stuck on this step, you can [tweet me](https://twitter.com/contraexemplo), [toot me](https://cybre.space/@Anna) or [email me](mailto:contraexemplo@protonmail.ch) (with the subject "Help me set up git", making sure you tell me which operational system you use).
 ### Forking this repository
 First things first, you will need to make a copy of this repository to your profile—which is what we call "forking". This will clone absolutely every single file available on this repository, along with the history of changes made here.
-### Editing files
+
+First, you will need to click on the "Fork" button, that can be seen on the top right of the page, along with the "Watch" and "Start" buttons.
+
+GitHub will then show you a cute animation while copying all existing files to your profile...
+
+... and redirect you to your own copy of that repository.
+
+### Editing existing files
+When you are just editing existing files, or want to add more files to existing folders, you can do this on GitHub itself.
+### Creating new folders
 ### Submitting your changes
 ## Submitting a translation
 ### Documenting your translation efforts
