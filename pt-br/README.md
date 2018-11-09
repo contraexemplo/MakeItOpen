@@ -1,4 +1,4 @@
-Hi! 
+Welcome!
 
 
 ## What is the goal of this project?
@@ -45,4 +45,9 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 ### None of the above, but...
 
 #### I am not a native English speaker
-- Submit a translation of the content of this repository in your mother toungue
+- Submit a translation of the content of this repository in your mother toungue!
+
+#### I am just really excited about preservation of culture!
+- Telling us how would an ideal digital collection look like
+- Pointing out what can be improved in current solutions under the perspective of a user and visitor
+- Describing which experiences you would like to be made possible with the digitization of objects of culture

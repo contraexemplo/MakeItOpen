@@ -1,6 +1,21 @@
 Welcome!
 
 
+Table of Contents
+=================
+
+      * [What is the goal of this project?](#what-is-the-goal-of-this-project)
+      * [Who is behind this project?](#who-is-behind-this-project)
+      * [How can I help?](#how-can-i-help)
+         * [I am involved with cultural heritage initiatives and/or intitutions](#i-am-involved-with-cultural-heritage-initiatives-andor-intitutions)
+         * [I am involved in research about preservation of culture and policy making](#i-am-involved-in-research-about-preservation-of-culture-and-policy-making)
+         * [I am envolved in digitization of cultural objects](#i-am-envolved-in-digitization-of-cultural-objects)
+         * [I am involved in enrichment and reuse of cultural objects online](#i-am-involved-in-enrichment-and-reuse-of-cultural-objects-online)
+         * [I am involved in software development](#i-am-involved-in-software-development)
+         * [None of the above, but...](#none-of-the-above-but)
+            * [I am not a native English speaker](#i-am-not-a-native-english-speaker)
+            * [I am just really excited about preservation of culture!](#i-am-just-really-excited-about-preservation-of-culture)
+
 ## What is the goal of this project?
 
 Its objective is creating a network of open access enthusiasts to debate, create and enforce open access policies. By documenting experiences with one of Tainacan's main partners, [Museu do Índio](http://www.museudoindio.gov.br/), in experimenting different approaches to make their collections and knowledge available in both a Tainacan instance of theirs and open knowledge projects such as [Wikimedia's](https://www.wikimedia.org/), I aim to identify common work paths and propose ways to potentialize the sharing of cultural objects with minimal rework utilizing open tools and widely accepted standards.
@@ -14,7 +29,7 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 
 ## How can I help?
 
-*If you would like to know more, there's a longer document describing the contribution policy*
+*If you would like to know more, there's a [longer document](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) about our contribution policy*
 
 ### I am involved with cultural heritage initiatives and/or intitutions
 - Listing your needs, doubts, concerns and objectives related to digital collections and digital preservation of culture
