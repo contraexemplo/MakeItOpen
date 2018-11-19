@@ -9,7 +9,7 @@ Table of Contents
 * [How can I help?](#how-can-i-help)
      * [I am involved with cultural heritage initiatives and/or intitutions](#i-am-involved-with-cultural-heritage-initiatives-andor-intitutions)
      * [I am involved in research about cultural preservation and policy making](#i-am-involved-in-research-about-cultural-preservation-and-policy-making)
-     * [I am envolved in digitization of cultural objects](#i-am-envolved-in-digitization-of-cultural-objects)
+     * [I am involved in digitization of cultural objects](#i-am-involved-in-digitization-of-cultural-objects)
      * [I am involved in enrichment and reuse of cultural objects online](#i-am-involved-in-enrichment-and-reuse-of-cultural-objects-online)
      * [I am involved in software development](#i-am-involved-in-software-development)
      * [None of the above, but...](#none-of-the-above-but)
@@ -39,7 +39,7 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 - Sending us reports or articles about similar experiences in the country, state, city or environment you are in
 - Describing your own experiences on preservation of culture and policy making
 
-### I am envolved in digitization of cultural objects
+### I am involved in digitization of cultural objects
 - Suggesting low cost tools and processes regarding digitization
 - Describing techniques that produce digital collections of a better quality
 
