@@ -27,7 +27,7 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 
 ## How can I help?
 
-*If you would like to know more, there's a [longer document](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) about our contribution policy*
+*If you would like to know more, there's a [longer document](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) about our contribution policy. Don't forget to read our [Code of Conduct](https://github.com/contraexemplo/MakeItOpen/blob/master/CODE_OF_CONDUCT.md)!*
 
 ### I am involved with cultural heritage initiatives and/or intitutions
 - Listing your needs, doubts, concerns and objectives related to digital collections and digital preservation of culture
