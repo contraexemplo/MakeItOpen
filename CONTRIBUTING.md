@@ -2,12 +2,12 @@ Interested in contributing to this project? That's awesome! 💪 In this page, w
 
 Table of Contents
 =================
-
+   * [Before contributing...](#before-contributing)
    * [Adding and editing content](#adding-and-editing-content)
       * [What is git and GitHub?](#what-is-git-and-github)
       * [Requirements](#requirements)
       * [Forking this repository](#forking-this-repository)
-      * [Editing files](#editing-files)
+      * [Editing existing files](#editing-existing-files)
       * [Submitting your changes](#submitting-your-changes)
    * [Submitting a translation](#submitting-a-translation)
       * [Documenting your translation efforts](#documenting-your-translation-efforts)
@@ -17,6 +17,13 @@ Table of Contents
       * [Other means of contact](#other-means-of-contact)
    * [Exploring the projects mentioned here](#exploring-the-projects-mentioned-here)
       * [What to look for](#what-to-look-for)
+
+## Before contributing...
+It's important to remind you that all content in this repository, and consequently all content added in the future, is available under the [CC0 license](https://github.com/contraexemplo/MakeItOpen/blob/master/LICENSE.md). As Creative Commons sums up in [their page dedicated to this license](https://creativecommons.org/publicdomain/zero/1.0/):
+
+> The person who associated a work with this deed has **dedicated** the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+As this is an effort to promote cultural openness, I believe that this license will bring this project the most benefits. Thereby, any contribution you make to the content of this repository will be available under CC0 as well.
 
 ## Adding and editing content
 ### What is git and GitHub?
@@ -31,7 +38,7 @@ Table of Contents
 ### Forking this repository
 First things first, you will need to make a copy of this repository to your profile—which is what we call "forking". This will clone absolutely every single file available on this repository, along with the history of changes made here.
 
-First, you will need to click on the "Fork" button, that can be seen on the top right of the page, along with the "Watch" and "Start" buttons.
+First, you will need to click on the "Fork" button, that can be found on the top right of the page, along with the "Watch" and "Start" buttons.
 
 GitHub will then show you a cute animation while copying all existing files to your profile...
 
