@@ -1,4 +1,4 @@
-* Resumo
+### Resumo
 - No Brasil, houveram parcerias ostensivamente registradas com as seguintes GLAMs:
   + *2014*
     + Instituto Cultural Ítalo Brasileiro: digitalização do livro [[https://commons.wikimedia.org/wiki/Category:Il_Brasile_e_gli_Italiani][Il Brasile e gli Italiani]], com o suporte da empresa IAIDigital
@@ -27,12 +27,12 @@
 - [[Arquivo Nacional adere à Wiki Commons][Arquivo Nacional adere à Wiki Commons]]
 - [[https://upload.wikimedia.org/wikipedia/commons/f/fa/Workshop_GLAM_Wiki_IWSC.pdf][GLAM: organização, incorporação e promoção de acervos nos projetos Wikimedia]]
 
-* This month in GLAM
+### This month in GLAM
 A iniciativa voltada para GLAMs na Wikimedia mantém um boletim informativo sobre as atividades do grupo desde 2011 chamado [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter][This month in GLAM]] ("Neste mês, na GLAM" em tradução livre). Os seus volumes são anuais, com cada edição correspondendo a um mês do ano. Nessas edições, reúne-se informações tanto sobre iniciativas financiadas pela Wikimedia Foundation quanto voluntárias, iniciadas e mantidas por grupos locais  de wikimedistas. Os relatórios são apresentados por região (geralmente dividida em países) e por iniciativas "internacionais" (projetos como Wikidata, competições como Wiki Loves Monuments, equipes como  WMF [Wikimedia Foundation] GLAM, eventos em geral, entre outros assuntos considerados mundiais).
 
-** Relatórios brasileiros
+#### Relatórios brasileiros
 
-*** 2016
+##### 2016
 
 A atividade brasileira neste boletim começou a ser registrada em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/May_2016/Contents/Brazil_report][maio de 2016]], com um relatório sobre o progresso da política de acesso aberto do Museu da Imigração do Estado de São Paulo. Nele, afirma-se que o interesse na parceria nasceu do interesse de uma representante do museu, Juliana Monteiro, que participou do [[https://openpolicynetwork.org/iol/][Institute for Open Leardership 2]], treinamento sobre políticas de acesso aberto que aconteceu na Cidade do Cabo em março de 2016. Isso culminou na primeira colaboração do Museu da Imigração com a Wikimedia Commons, enviando ao acervo [[https://commons.wikimedia.org/wiki/Category:The_Path_of_the_Things_Exhibition_at_Immigration_Museum_of_the_State_of_S%C3%A3o_Paulo][componentes da exposição "O Caminho das Coisas"]]. Mais detalhes sobre essa experiência são descritos em sua postagem no blog da Creative Commons, [[https://creativecommons.org/2016/07/19/creative-commons-e-museu-da-imigracao-notas-sobre-experiencia-brasileira/][Creative Commons e Museu da Imigração: notas sobre uma experiência brasileira]].
 
@@ -58,7 +58,7 @@ Sob a tutela de Juliana Monteiro, alunos de Museologia da ETEC Parque Juventude 
 
 Por último, fizeram uma lista de autores e obras que entram em domínio público em 2017 para celebrá-los no Dia do Domínio Público e fazer as suas obras disponíveis da Wikimedia Commons.
 
-*** 2017
+##### 2017
 
 Os relatórios começam em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/January_2017/Contents/Brazil_report][janeiro]], falando sobre divulgação de livros em domínio público no Dia do Domínio Público, possíveis parcerias com o Museu de Saúde Pública Emílio Ribas e uma maratona de edições a ser realizada em conjunto com o COMCOL e a Superintendência de Museus da Secretaria Municipal da Cultura do Rio de Janeiro.
 
@@ -86,7 +86,7 @@ Também foi realizado o 2º CCBWIKI e o 1º IWSC (Conferência Científica Inter
 
 Enfim, começou-se um projeto de [[https://commons.wikimedia.org/wiki/Category:GLAM_3D_reconstructions_by_Cicero_Moraes][reconstrução 3D com o design gráfico Cícero Moraes]]. A ideia é fornecer à Wikimedia Commons reconstruções de figuras notáveis.
 
-*** 2018
+##### 2018
 
 As iniciativas começam a ser reportadas em [[https://outreach.wikimedia.org/wiki/GLAM/Newsletter/February_2018/Contents/Brazil_report][fevereiro]], com o anúncio de uma parceria formal com a [[https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_Biblioteca_Brasiliana_Guita_e_Jos%C3%A9_Mindlin][Biblioteca Brasiliana Guita e José Mindlin]] e o [[https://commons.wikimedia.org/wiki/Category:Media_contributed_by_the_National_Historical_Museum][Museu Histórico Nacional]].
 

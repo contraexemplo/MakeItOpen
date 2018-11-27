@@ -1,20 +1,20 @@
-* Fluxo de trabalho de dados estruturados
-** Negociações com instituições parceiras
+### Fluxo de trabalho de dados estruturados
+#### Negociações com instituições parceiras
 - Socialização através de pequenas atividades conjuntas (maratonas de edição, treinamentos).
 - Acordos de cooperação podem ser explicitados através de um [[https://meta.wikimedia.org/wiki/Partnerships_%26_Resource_Development/Drafting_a_Memorandum_of_Understanding][Memorando de Acordos]].
    + Tal memorando formaliza o acordo entre parceiros, descrevendo claramente a relação entre eles.
-** Dados e mídia são disponibilizados para wikimedistas
+#### Dados e mídia são disponibilizados para wikimedistas
 - Se o parceiro não puder prover uma exportação de dados de seus bancos, é possível usar outras ferramentas como raspagem de dados.
 
-** Antes dos envios
-*** Definição o estado dos direitos autorais dos itens
+### Antes dos envios
+#### Definição o estado dos direitos autorais dos itens
 - Certificar-se de que as licenças são compatíveis com os projetos Wikimedia.
   + *Recursos*
     + [[https://commons.wikimedia.org/wiki/Commons:Licensing][Página com informações sobre a política de licenças da Wikimedia]]
     + [[https://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg][Infográfico informativo sobre licenças e projetos Wikimedia]]
 - Se a licença não estiver explícita em local público, é necessário [[https://commons.wikimedia.org/wiki/Commons:OTRS#Licensing_images:_when_do_I_contact_OTRS?][enviar um e-mail pelo OTRS]] para criar um registro público e arquivável.
 
-*** Preparação os dados
+#### Preparação os dados
 - Limpeza e adequação dos dados para deixá-los sob medida aos projetos Wikimedia.
   + *Ferramentas*
   + Procure por itens semelhantes para se inspirar em sua modelagem de dados.
@@ -22,7 +22,7 @@
   + [[https://chrome.google.com/webstore/detail/wikipedia-and-wikidata-to/aiilcelhmpllcgkhhpifagfehbddkdfp?hl=en][Extensão oficial para o Google Spreadsheets]]
   + OpenRefine ([[https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Schema_alignment][Guia específico para a Wikidata]])
 
-*** Pré-checagem: os itens estão presentes no projeto?
+#### Pré-checagem: os itens estão presentes no projeto?
 - Alguns voluntários costumam enviar certos itens de algumas coleções de forma independente.
 - Possivelmente a Wikidata conterá informações sobre trabalhos artísticos, pessoas e tópicos relacionados a coleções.
 - Na Wikimedia Commons, é considerado uma boa prática enviar arquivos novos e de alta qualidade. Não subscreva arquivos já existentes.
@@ -31,13 +31,13 @@
   + Função de busca na Wikidata e Wikimedia Commons
   + [[https://query.wikidata.org/][Motor de consultas da Wikidata]]
   + [[https://petscan.wmflabs.org/][Petscan]], ferramenta de buscas e consultas avançadas em projetos Wikimedia
-*** Reconcialiação: associação entre itens do conjunto de dados original e suas entradas correspondentes na Wikidata
+#### Reconcialiação: associação entre itens do conjunto de dados original e suas entradas correspondentes na Wikidata
 - *Ferramentas*
 - Funcionalidade de reconciliação do OpenRefine.
 - [[https://tools.wmflabs.org/mix-n-match/][Mix 'n' Match]], reconciliação coletiva online ([[https://meta.wikimedia.org/wiki/Mix%27n%27match/Manual][Manual]])
 
-** Envios
-*** Envio dos novos dados ou arquivos para os projetos
+### Envios
+#### Envio dos novos dados ou arquivos para os projetos
 - É uma boa prática começar com pequenas quantidades para checar se não há erros estruturais.
 - Envie em grupos devem ser feitos em quantidades gerenciáveis. Envios na casa das centenas tornam erros mais difíceis de se detectar.
 - Checar envios ocasionalmente para evitar que erros se propaguem.
@@ -50,8 +50,8 @@
        + [[https://tools.wmflabs.org/quickstatements/#/.2F][QuickStatements]]. Para envios de dados em .csv
        + OpenRefine (3.0+)
 
-** Pós-envio
-*** Conserto de erros detectados durante os envios
+### Pós-envio
+#### Conserto de erros detectados durante os envios
   + *Ferramentas*
      + *Wikimedia Commons*
        + [[https://commons.wikimedia.org/wiki/Help:Gadget-Cat-a-lot][Cat-a-lot]]. Auxílio na categorização de imagens
@@ -60,19 +60,19 @@
      + *Wikidata*
        + Os já citados OpenRefine, Petscan e QuickStatements
        + [[https://tools.wmflabs.org/editgroups/][EditGroups]]. Correção de erros de lotes enviados pelo QuickStatements e Open Refine
-*** Trabalho com a comunidade para enriquecer os dados
+#### Trabalho com a comunidade para enriquecer os dados
 Entre os exemplos de melhoramentos, pode-se explicitar:
 - Adição de metadados mais precisos.
 - Adição de mais referências.
 - Tradução de metadados.
   + *Ferramentas*
      + [[https://www.wikidata.org/wiki/Template:Wikidata_list][Template:Wikidata list + Listeria]]. Para fazer listas estruturadas de itens da Wikidata ou outros projetos.
-*** Encorajamento do uso dessas mídias e dados em outros projetos
+#### Encorajamento do uso dessas mídias e dados em outros projetos
 - Campanhas dentro da comunidade (maratonas de edição, WikiProjetos, eventos de fotografia).
 - Uso em outras plataformas e projetos fora da Wikimedia.
 
-** Medição do impacto
-*** A partir de melhoramentos e reuso
+### Medição do impacto
+#### A partir de melhoramentos e reuso
 - Número de pessoas que trabalharam com os dados e mídia.
 - Tipos de enriquecimento.
 - Inclusão em páginas dos projetos Wikimedia.
@@ -84,7 +84,7 @@ Entre os exemplos de melhoramentos, pode-se explicitar:
     + [[https://tools.wmflabs.org/glamtools/glamorgan.html][GLAMorgan]]. Consulta o número de visualizações das páginas de uma categoria específica do Wikimedia Commons em um dito mês.
     + [[https://commons.wikimedia.org/wiki/Commons:GLAM_dashboard][GLAM Dashboard]]. Estatísticas relacionadas a lotes de arquivos enviados por GLAMs.
 
-* Links importantes
+## Links importantes
 
 - [[https://outreach.wikimedia.org/wiki/GLAM/Resources/Data_and_media_partnerships_workflow][Fluxo de trabalho detalhado em inglês]]
 
