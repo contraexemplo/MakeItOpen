@@ -20,4 +20,4 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 
 
 ## How can I help?
-With content, feedback and awesome discussions! Read [our contribution policy](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) to know more. Also, don't forget to read our [Code of Conduct](https://github.com/contraexemplo/MakeItOpen/blob/master/CODE_OF_CONDUCT.md) as well!
+With content, feedback and awesome discussions! Please read [our contribution policy](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) and our [roadmap](https://github.com/contraexemplo/MakeItOpen/blob/master/ROADMAP.md) to understand better how to contribute and which tasks are up to grab. Also, don't forget to read our [Code of Conduct](https://github.com/contraexemplo/MakeItOpen/blob/master/CODE_OF_CONDUCT.md) as well!
