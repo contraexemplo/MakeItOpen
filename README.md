@@ -7,12 +7,6 @@ About Make It Open
 * [What is the goal of this project?](#what-is-the-goal-of-this-project)
 * [Who is behind this project?](#who-is-behind-this-project)
 * [How can I help?](#how-can-i-help)
-     * [I am involved with cultural heritage initiatives and/or intitutions](#i-am-involved-with-cultural-heritage-initiatives-andor-intitutions)
-     * [I am involved in research about cultural preservation and policy making](#i-am-involved-in-research-about-cultural-preservation-and-policy-making)
-     * [I am involved in digitization of cultural objects](#i-am-involved-in-digitization-of-cultural-objects)
-     * [I am involved in enrichment and reuse of cultural objects online](#i-am-involved-in-enrichment-and-reuse-of-cultural-objects-online)
-     * [I am involved in software development](#i-am-involved-in-software-development)
-     * [None of the above, but...](#none-of-the-above-but)
 
 ## What is the goal of this project?
 
@@ -26,41 +20,4 @@ This project is a complementary initiative to [Tainacan](https://tainacan.org), 
 
 
 ## How can I help?
-
-*If you would like to know more, there's a [longer document](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) about our contribution policy. Don't forget to read our [Code of Conduct](https://github.com/contraexemplo/MakeItOpen/blob/master/CODE_OF_CONDUCT.md)!*
-
-### I am involved with cultural heritage initiatives and/or intitutions
-- Listing your needs, doubts, concerns and objectives related to digital collections and digital preservation of culture
-- Reviewing the processes and tools described in this repository
-- Helping us establish priorities and more effective policies
-
-### I am involved in research about cultural preservation and policy making
-- Reviewing the processes described in this repository
-- Sending us reports or articles about similar experiences in the country, state, city or environment you are in
-- Describing your own experiences on preservation of culture and policy making
-
-### I am involved in digitization of cultural objects
-- Suggesting low cost tools and processes regarding digitization
-- Describing techniques that produce digital collections of a better quality
-
-### I am involved in enrichment and reuse of cultural objects online
-- Reviewing processes regarding the involvement of communities in enrichment and reuse
-- Pointing out which strategies to attract and keep contributors work according to your own experiences
-- Describing better the processes of enrichment and reusing cultural objects, citing solid, realistic possibilities within online and offline communities
-
-### I am involved in software development
-- Improving the open tools mentioned in this repository:
-  * Testing them and making user reports
-  * Fixing persistent, annoying bugs
-  * Helping implement wanted features
-  * Writing and complementing their documentation
-
-### None of the above, but...
-
-#### I speak English and other language(s)
-- Submit a translation of the content of this repository!
-
-#### I am just really excited about preservation of culture!
-- Telling us how would an ideal digital collection look like
-- Pointing out what can be improved in current solutions under the perspective of a user and visitor
-- Describing which experiences you would like to be made possible with the digitization of objects of culture
+With content, feedback and awesome discussions! Read [our contribution policy](https://github.com/contraexemplo/MakeItOpen/blob/master/CONTRIBUTING.md) to know more. Also, don't forget to read our [Code of Conduct](https://github.com/contraexemplo/MakeItOpen/blob/master/CODE_OF_CONDUCT.md) as well!
